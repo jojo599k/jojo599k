@@ -1,0 +1,2 @@
+- Hi, I’m @jojo599k
+- I’m currently learning Rust
