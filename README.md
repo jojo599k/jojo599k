@@ -11,18 +11,9 @@ I'm interested in Clean Code and Software Architecture. Also look at the list of
 - C/C++
 - python
 
-**Learning:**
+**I'm currently Learning:**
 
-- Rust
 - Vim
-- Docker
-- Shell script
+- Zig
+- Rust
 
-**Wanting to learn:**
-
-- Haskell
-- Emacs
-- Parser, Compiler, etc.
-- Distributed Systems
-- DevOps
-- Electronics
